@@ -112,7 +112,6 @@ window-padding-x = 14
 window-padding-y = 10
 macos-titlebar-style = transparent
 macos-titlebar-proxy-icon = hidden
-command = /opt/homebrew/bin/tmux new-session -A -s main
 
 palette = 0=#1b2d25
 palette = 1=#f08a81
